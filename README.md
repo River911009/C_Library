@@ -1,6 +1,6 @@
 
 # C_Library
-A learning note about creating C++ library for C++ and PYTHON using.
+A learning note about creating C library for C and PYTHON using.
 
 ---
 1. Create source files
